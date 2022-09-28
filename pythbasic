@@ -1,0 +1,34 @@
+# print("hi")
+# my_name = 'shuki'
+# print(my_name)
+# print ("how older are you")
+# age = 37
+# print (age)
+# is_male = True
+# print (is_male)
+# hobbies = ['Ski', 'gym' ,'sex']
+# print(hobbies[1], hobbies[2])
+# hobbies[0] = 'programming'
+# print(hobbies)
+# user_detail = {
+#     'first_name' : "shuki",
+#     'last_name' : "shmuel"
+# }
+# print(user_detail)
+
+age = 23
+if age >= 37:
+  print("you are adulte")
+elif 20 < age < 37 :
+  print("ooo")
+else : 
+  print("you are young")
+x = "shu"
+y = "ki"
+print(f"x+y {x},{y}")
+
+
+
+
+
+
