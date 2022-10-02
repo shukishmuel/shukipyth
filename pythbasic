@@ -26,7 +26,13 @@ else :
 x = "shu"
 y = "ki"
 print(f"x+y {x},{y}")
-
+count = range(1,100)
+for x in count:
+  if x%7 == 0 or '7' in str(x):
+    print(x, "BOOM") 
+  else: 
+    print(x) 
+   
 
 
 
